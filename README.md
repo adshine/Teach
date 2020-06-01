@@ -1,2 +1,0 @@
-# Teach
-Teach sample
